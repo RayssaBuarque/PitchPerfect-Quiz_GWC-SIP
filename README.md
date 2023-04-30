@@ -1,4 +1,4 @@
-# PitchPerfect.Quiz_GWC-SIP
+# Pitch Perfect Quiz (GWC-SIP 2023)
 Are you more of a Bella or a Treblemaker? 
 
 The takers of this quiz will answer a series of music related yes/no questions to decide which fictional acapella group from Pitch Perfect they belong to.
